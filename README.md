@@ -10,7 +10,7 @@ Install the dependency
 pip install -r requirements.txt --user
 ```
 
-Create a `dataset`, a `result` and a `test_log` folder in the project directory:
+Create a `dataset`, `result` and `test_log` folder in the project directory:
 ```bash
 mkdir dataset
 mkdir result
