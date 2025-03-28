@@ -8,8 +8,9 @@ Download our datasets then place them in data folder
 Google Drive: [https://drive.google.com/drive/folders/1jjg6Jlyb92pVrUzbdr5fHSMzYQnr2U47](https://drive.google.com/file/d/12eDOB99FE3MDU2MoO6GVHnT_M5YSMzli/view?usp=sharing)
 
 ### 2. Setup
-Before running the code, create a `result`  and a `test_log` folder in the project directory:
+Before running the code, create a `dataset`, a `result` and a `test_log` folder in the project directory:
 ```bash
+mkdir dataset
 mkdir result
 mkdir test_log
 ```
