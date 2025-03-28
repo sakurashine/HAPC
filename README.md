@@ -2,14 +2,19 @@
 
 ## Usage
 
-### 1. Unsupervised Pre-Training
+### 1. Prepare the datasets
+Download our datasets then place them in data folder
+
+Google Drive: https://drive.google.com/drive/folders/1jjg6Jlyb92pVrUzbdr5fHSMzYQnr2U47
+
+### 2. Unsupervised Pre-Training
 We can run on a single machine of single GPU with the following command:
 ```
 python main.py
 ```
 
-### 2. Linear Classification
-With a pre-trained model, we can easily evaluate its performance on IndianPines with:
+### 3. Linear Classification
+With a pre-trained model, we can easily evaluate its performance with:
 ```
 python linear.py
 ```
