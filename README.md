@@ -21,6 +21,7 @@ mkdir test_log
 Download our datasets and place them in `dataset` folder:
 
 Google Drive: [https://drive.google.com/drive/folders/1jjg6Jlyb92pVrUzbdr5fHSMzYQnr2U47](https://drive.google.com/file/d/12eDOB99FE3MDU2MoO6GVHnT_M5YSMzli/view?usp=sharing)
+
 The subfolder `200` and `20` is the training set with 200 and 20 random samples per class of CongHoa and DongXing datasets.
 
 ### 3. Unsupervised Pre-Training
