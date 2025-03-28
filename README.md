@@ -22,9 +22,13 @@ Download our datasets and place them in `dataset` folder:
 
 Google Drive: [https://drive.google.com/drive/folders/1jjg6Jlyb92pVrUzbdr5fHSMzYQnr2U47](https://drive.google.com/file/d/12eDOB99FE3MDU2MoO6GVHnT_M5YSMzli/view?usp=sharing)
 │  
+
 ├── CongHoa
+
 │   └── CongHoa.mat     # data
+
 │   └── CongHoa_gt.mat  # ground truth
+
 │   └── 200             # training set with 200 random samples per class
 └── DongXing
     └── DongXing.mat     # data
