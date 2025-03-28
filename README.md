@@ -5,7 +5,12 @@
 
 
 ### 1. Setup
-Before running the code, create a `dataset`, a `result` and a `test_log` folder in the project directory:
+Install the dependency
+```bash
+pip install -r requirements.txt --user
+```
+
+Create a `dataset`, a `result` and a `test_log` folder in the project directory:
 ```bash
 mkdir dataset
 mkdir result
