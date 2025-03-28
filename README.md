@@ -12,6 +12,7 @@ Before running the code, create a `result`  and a `test_log` folder in the proje
 ```bash
 mkdir result
 mkdir test_log
+```
 
 ### 3. Unsupervised Pre-Training
 We can run on a single machine of single GPU with the following command:
